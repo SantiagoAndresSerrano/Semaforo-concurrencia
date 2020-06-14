@@ -28,19 +28,19 @@
     <Component class="javax.swing.JLabel" name="carro2">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/Vista/Imagenes/da82fedda59c1e00f5c146ade0a2e4c4-silueta-compacta-de-la-vista-lateral-del-coche-by-vexels.png"/>
+          <Image iconType="3" name="/Vista/da82fedda59c1e00f5c146ade0a2e4c4-silueta-compacta-de-la-vista-lateral-del-coche-by-vexels.png"/>
         </Property>
       </Properties>
       <Constraints>
         <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
-          <AbsoluteConstraints x="70" y="170" width="-1" height="54"/>
+          <AbsoluteConstraints x="70" y="170" width="100" height="54"/>
         </Constraint>
       </Constraints>
     </Component>
     <Component class="javax.swing.JLabel" name="persona1">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/Vista/Imagenes/6aa09e0e57a41b377d066e26f22519ab-icono-de-transporte-de-usuario-de-la-persona-by-vexels.png"/>
+          <Image iconType="3" name="/Vista/6aa09e0e57a41b377d066e26f22519ab-icono-de-transporte-de-usuario-de-la-persona-by-vexels.png"/>
         </Property>
       </Properties>
       <Constraints>
@@ -52,26 +52,26 @@
     <Component class="javax.swing.JLabel" name="jLabel2">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/Vista/Imagenes/paso-peatonal-png-4.png"/>
+          <Image iconType="3" name="/Vista/paso-peatonal-png-4.png"/>
         </Property>
         <Property name="text" type="java.lang.String" value="\u005c" containsInvalidXMLChars="true"/>
       </Properties>
       <Constraints>
         <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
-          <AbsoluteConstraints x="270" y="30" width="60" height="-1"/>
+          <AbsoluteConstraints x="270" y="30" width="60" height="100"/>
         </Constraint>
       </Constraints>
     </Component>
     <Component class="javax.swing.JLabel" name="jLabel3">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/Vista/Imagenes/paso-peatonal-png-4.png"/>
+          <Image iconType="3" name="/Vista/paso-peatonal-png-4.png"/>
         </Property>
         <Property name="text" type="java.lang.String" value="\u005c" containsInvalidXMLChars="true"/>
       </Properties>
       <Constraints>
         <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
-          <AbsoluteConstraints x="270" y="220" width="60" height="-1"/>
+          <AbsoluteConstraints x="270" y="220" width="60" height="100"/>
         </Constraint>
       </Constraints>
     </Component>
@@ -99,7 +99,7 @@
     <Component class="javax.swing.JLabel" name="jLabel4">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/Vista/Imagenes/semaforo-png-3.png"/>
+          <Image iconType="3" name="/Vista/semaforo-png-3.png"/>
         </Property>
       </Properties>
       <Constraints>
@@ -137,13 +137,13 @@
     <Component class="javax.swing.JLabel" name="jLabel6">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/Vista/Imagenes/paso-peatonal-png-4.png"/>
+          <Image iconType="3" name="/Vista/paso-peatonal-png-4.png"/>
         </Property>
         <Property name="text" type="java.lang.String" value="\u005c" containsInvalidXMLChars="true"/>
       </Properties>
       <Constraints>
         <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
-          <AbsoluteConstraints x="270" y="130" width="60" height="-1"/>
+          <AbsoluteConstraints x="270" y="130" width="60" height="100"/>
         </Constraint>
       </Constraints>
     </Component>

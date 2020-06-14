@@ -20,7 +20,7 @@ public class Coche extends Thread {
     int limite;
     final int POSICION_INICIAL;
     Semaphore sc;
-
+    
     public Coche(JLabel coche, int limite, Semaphore sc) {
         this.coche = coche;
         this.limite = limite;
@@ -52,7 +52,7 @@ public class Coche extends Thread {
     }
 
     private boolean noLLegaLimite() {
-        return coche.getX() + 90 >= limite;
+        return coche.getX() + 130 >= limite;
     }
     
     public void dejarAlInicio(){

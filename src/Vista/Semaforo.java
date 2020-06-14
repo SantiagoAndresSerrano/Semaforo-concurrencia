@@ -69,20 +69,20 @@ public class Semaforo extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         getContentPane().setLayout(null);
 
-        carro2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Vista/Imagenes/da82fedda59c1e00f5c146ade0a2e4c4-silueta-compacta-de-la-vista-lateral-del-coche-by-vexels.png"))); // NOI18N
+        carro2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Vista/da82fedda59c1e00f5c146ade0a2e4c4-silueta-compacta-de-la-vista-lateral-del-coche-by-vexels.png"))); // NOI18N
         getContentPane().add(carro2);
         carro2.setBounds(70, 170, 100, 54);
 
-        persona1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Vista/Imagenes/6aa09e0e57a41b377d066e26f22519ab-icono-de-transporte-de-usuario-de-la-persona-by-vexels.png"))); // NOI18N
+        persona1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Vista/6aa09e0e57a41b377d066e26f22519ab-icono-de-transporte-de-usuario-de-la-persona-by-vexels.png"))); // NOI18N
         getContentPane().add(persona1);
         persona1.setBounds(250, 360, 90, 100);
 
-        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Vista/Imagenes/paso-peatonal-png-4.png"))); // NOI18N
+        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Vista/paso-peatonal-png-4.png"))); // NOI18N
         jLabel2.setText("\\");
             getContentPane().add(jLabel2);
             jLabel2.setBounds(270, 30, 60, 100);
 
-            jLabel3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Vista/Imagenes/paso-peatonal-png-4.png"))); // NOI18N
+            jLabel3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Vista/paso-peatonal-png-4.png"))); // NOI18N
             jLabel3.setText("\\");
                 getContentPane().add(jLabel3);
                 jLabel3.setBounds(270, 220, 60, 100);
@@ -93,7 +93,7 @@ public class Semaforo extends javax.swing.JFrame {
                 getContentPane().add(verde);
                 verde.setBounds(120, 70, 30, 30);
 
-                jLabel4.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Vista/Imagenes/semaforo-png-3.png"))); // NOI18N
+                jLabel4.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Vista/semaforo-png-3.png"))); // NOI18N
                 getContentPane().add(jLabel4);
                 jLabel4.setBounds(85, 0, 89, 112);
 
@@ -115,7 +115,7 @@ public class Semaforo extends javax.swing.JFrame {
                 getContentPane().add(jButton5);
                 jButton5.setBounds(70, 440, 140, 25);
 
-                jLabel6.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Vista/Imagenes/paso-peatonal-png-4.png"))); // NOI18N
+                jLabel6.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Vista/paso-peatonal-png-4.png"))); // NOI18N
                 jLabel6.setText("\\");
                     getContentPane().add(jLabel6);
                     jLabel6.setBounds(270, 130, 60, 100);

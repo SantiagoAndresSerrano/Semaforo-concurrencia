@@ -69,7 +69,7 @@ public class SemaforoH extends Thread {
             s1.release();
             cambiarAVerde();
             System.out.println("Carros pueden pasar");
-            sleep(1000);
+            sleep(2000);
             
         }
             
